@@ -1,4 +1,4 @@
-[简体中文](https://ybwdaisy.github.io/clipboard-app/privacy_cn)
+[简体中文](https://ybwdaisy.github.io/clipboard-app/README_CN)
 
 # Privacy Policy
 
