@@ -1,3 +1,5 @@
+[简体中文](https://github.com/ybwdaisy/clipboard-app/blob/main/README_CN.md)
+
 # Privacy Policy
 
 Clipboard is a clipboard management tool designed for iOS and iPadOS.
