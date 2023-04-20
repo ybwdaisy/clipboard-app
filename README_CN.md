@@ -1,3 +1,5 @@
+[简体中文](https://github.com/ybwdaisy/clipboard-app/blob/main/README_CN.md)
+
 # 隐私政策
 
 Clipboard 是一个为 iOS 和 iPadOS 设计的剪贴板管理工具。
